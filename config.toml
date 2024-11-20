@@ -1,0 +1,162 @@
+baseurl = ""
+defaultContentLanguage = "it"
+googleAnalytics = ""
+languageCode = "en-us"
+paginate = 10
+pluralizelisttitles = false
+summaryLength = 70
+theme = "hugo-universal-theme"
+title = "Zancle E-Drive"
+[[menu.main]]
+identifier = "menu.allpages"
+name = "Support us"
+url = "/support-us/"
+weight = 7
+[[menu.main]]
+name = "About us"
+parent = "menu.features"
+url = "/about-us/"
+weight = 1
+[[menu.main]]
+name = "2022-23"
+parent = "menu.portfolio"
+url = "/il-team-2022-2023/"
+weight = 2
+[[menu.main]]
+name = "Formula SAE"
+parent = "menu.features"
+url = "/formula-sae/"
+weight = 4
+[[menu.main]]
+identifier = "menu.portfolio"
+name = "Team"
+weight = 6
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 10
+[[menu.main]]
+identifier = "menu.faq"
+name = "FAQ"
+url = "/faq/"
+weight = 9
+[[menu.main]]
+identifier = "menu.blog"
+name = "Blog"
+url = "/blog/"
+weight = 8
+[[menu.main]]
+identifier = "menu.features"
+name = "About"
+weight = 5
+[[menu.main]]
+identifier = "menu.home"
+name = "Home"
+url = "/"
+weight = 3
+[[menu.topbar]]
+name = "Email"
+pre = "<i class='fas fa-2x fa-envelope'></i>"
+url = "mailto:zancleedrive@gmail.com"
+weight = 5
+[[menu.topbar]]
+name = "LinkedIn"
+pre = "<i class='fab fa-2x fa-linkedin'></i>"
+url = "https://www.linkedin.com/company/zancle-edrive/"
+weight = 4
+[[menu.topbar]]
+name = "Instagram"
+pre = "<i class='fab fa-2x fa-instagram'></i>"
+url = "https://www.instagram.com/zancleedriveunime/"
+weight = 3
+[[menu.topbar]]
+name = "Facebook"
+pre = "<i class='fab fa-2x fa-facebook'></i>"
+url = "https://www.facebook.com/zancleedriveunime"
+weight = 2
+[[menu.topbar]]
+name = "Phone"
+pre = "<i class='fas fa-2x fa-phone'></i>"
+url = "tel: +39 348 4242368"
+weight = 1
+[params]
+about_us = "<p>Zancle E-Drive (ZED) è un team formato da studenti iscritti all’Università degli Studi di Messina, è attualmente l’unico della Sicilia nato con l’obiettivo di partecipare alla più famosa competizione internazionale ingegneristica e tecnologica del mondo universitario, la Formula Student.</p>"
+address = "<p class=\"text-uppercase\"><strong>Zancle E-Drive</strong>\n        <br>C.da Di Dio\n        <br>Vill. S. Agata \n        <br>98158 Messina (ME)\n        <br>Sicilia\n        <br>\n        <strong>Italia</strong>\n        <br>\n        <strong><a href=\"https://www.google.com/maps/place/Universit%C3%A0+degli+Studi+di+Messina+-+Dipartimento+di+Ingegneria/@38.2591705,15.5958576,15z/data=!4m5!3m4!1s0x0:0x2bca6da9fca8a2be!8m2!3d38.2591705!4d15.5958576\">Vieni a trovarci!</a></strong>\n      </p>\n      "
+author = "DevCows"
+contact_form_ajax = false
+contact_url = "/contact"
+copyright = "Copyright (c) 2022 - 2025, Zancle-edrive; all rights reserved."
+date_format = "January 2, 2006"
+defaultDescription = "Site template made by Devcows using Hugo"
+defaultKeywords = ["devcows", "hugo", "go"]
+default_sharing_image = "img/sharing-default.png"
+disabled_logo = false
+dropdown_mouse_over = false
+enableGoogleMaps = false
+enableRecaptchaInContactForm = false
+facebook_site = ""
+formspree_action = "https://formspree.io/sample/of/endpoint"
+googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
+googleRecaptchaKey = "site_key_for_google_recaptcha"
+latitude = "38.26052991631472"
+logo = "img/logo.svg"
+logo_small = "img/logo-small.png"
+logo_text = "Zancle E-Drive"
+longitude = "15.595773976600512"
+mainSections = ["blog"]
+style = "green"
+twitter_site = "GoHugoIO"
+viewMorePostLink = "/blog/"
+[params.carouselCustomers]
+auto_play = false
+items = 6
+pagination_speed = 1000
+slide_speed = 2000
+[params.carouselHomepage]
+auto_play = true
+enable = true
+pagination_speed = 1000
+slide_speed = 2000
+[params.carouselTestimonials]
+auto_play = false
+items = 4
+pagination_speed = 1000
+slide_speed = 2000
+[params.clients]
+enable = true
+subtitle = ""
+title = "Credono in noi"
+[params.features]
+enable = true
+[params.footer.recent_posts]
+enable = true
+[params.recent_posts]
+enable = true
+hide_summary = false
+subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+title = "From our blog"
+[params.see_more]
+enable = true
+icon = "far fa-file-alt"
+link_text = "Partecipa"
+link_url = "/contact"
+subtitle = "Unisciti a noi e collabora nella realizzazione di una monoposto elettrica a guida autonoma."
+title = "Entra a far parte del nostro team!"
+[params.testimonials]
+enable = true
+subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+title = "Testimonials"
+[params.topbar]
+enable = true
+text = "<p class=\"hidden-sm hidden-xs\">Contattaci al +39 348 4242368 or zancleedrive@gmail.com.</p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"tel:+39 348 4242368\" data-animate-hover=\"pulse\"><i class=\"fas fa-phone\"></i></a>\n      <a href=\"mailto:zancleedrive@gmail.com\" data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\n      </p>\n      "
+[params.widgets]
+categories = true
+search = true
+tags = true
+[permalinks]
+blog = "/blog/:year/:month/:day/:filename/"
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"

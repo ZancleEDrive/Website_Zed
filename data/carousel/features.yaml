@@ -1,0 +1,10 @@
+weight: 2
+title: "Più di 40 studenti"
+description: >
+  <ul class="list-style-none">
+     <li>Provenienti da numerosi corsi di laurea</li>
+     <li>Suddivisi in vari gruppi</li>
+     <li>In base alle proprie competenze</li>
+   </ul>
+image: "img/carousel/template-mac.png"
+href: "faq"
