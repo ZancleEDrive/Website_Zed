@@ -7,7 +7,7 @@ tags = ["ecologia", "motore elettrico"]
 title = "L'ingegno al servizio dell'ambiente"
 
 +++
-Il mondo dell’auto elettrica è una tendenza in crescita con sempre più offerte e tecnologie in rapida evoluzione. I bassi consumi, le altissime prestazioni e la minima quantità di inquinamento fanno dell’auto elettrica l’ancora di salvataggio del mercato automobilistico, salvaguardando al contempo l’ambiente. A far da padrone nelle vetture elettriche e nella monoposto di ZED è ovviamente il motore, semplice e compatto rispetto ad un motore a benzina o Diesel. **Ma nel particolare come funziona e quale principio fisico c’è dietro il funzionamento del motore elettrico?**
+Il mondo fdell’auto elettrica è una tendenza in crescita con sempre più offerte e tecnologie in rapida evoluzione. I bassi consumi, le altissime prestazioni e la minima quantità di inquinamento fanno dell’auto elettrica l’ancora di salvataggio del mercato automobilistico, salvaguardando al contempo l’ambiente. A far da padrone nelle vetture elettriche e nella monoposto di ZED è ovviamente il motore, semplice e compatto rispetto ad un motore a benzina o Diesel. **Ma nel particolare come funziona e quale principio fisico c’è dietro il funzionamento del motore elettrico?**
 
 {{< figure src="/img/3_1.jpg" width=100% class="center" >}}
 
